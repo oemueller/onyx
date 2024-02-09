@@ -8,7 +8,7 @@ module.exports = {
     ecmaVersion: "latest",
   },
   extends: [
-    "plugin:vue/vue3-recommended",
+    "plugin:vue/vue3-recommendedd",
     "eslint:recommended",
     "plugin:vuejs-accessibility/recommended",
     // @vue/eslint-config-typescript must be placed after all other configs except @vue/eslint-config-prettier
